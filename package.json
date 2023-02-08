@@ -1,0 +1,23 @@
+{
+  "name": "aulas-cassandra",
+  "version": "1.0.0",
+  "description": "Exemplo de uso do cassandra feito em sala",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bancos-de-Dados-II/Aulas-Cassandra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bancos-de-Dados-II/Aulas-Cassandra/issues"
+  },
+  "homepage": "https://github.com/Bancos-de-Dados-II/Aulas-Cassandra#readme",
+  "dependencies": {
+    "cassandra-driver": "^4.6.4"
+  }
+}
